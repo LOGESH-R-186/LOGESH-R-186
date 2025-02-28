@@ -33,12 +33,13 @@
   <img src="https://img.shields.io/badge/Github-1DA1F2?style=for-the-badge&logo=Github&logoColor=white" />
 
  <a href="https://leetcode.com/u/logu_ram/" target="_blank">
-  <img src="https://img.shields.io/badge/Leetcode-red?&style=for-the-badge&logo=leetcode&logoColor=white" alt="alsiam"  />
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="alsiam"  />
   </a> 
 </p>
 <br />
 <!-- About Section -->
-  About me
+
+ ### About me 
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
@@ -51,9 +52,8 @@
 </p>
 
 <br/>
-<br/>
-<br/>
-## Use To Code
+
+ ### I Code in
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -61,8 +61,15 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<br/>
+### IDE and Tools I Use
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> 
+
+### 💻 Workspace Spec
+![LeetCode Stats](https://leetcard.jacoblin.cool/logu_ram?theme=dark&font=Marcellus)
+
+
+![LOGESH-R-186's Stats](https://github-readme-stats.vercel.app/api?username=LOGESH-R-186&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![LOGESH-R-186's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LOGESH-R-186&theme=dark&hide_border=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LOGESH-R-186&bg_color=1b181a&color=fcfcfc&line=1aa81d&point=f3f1f1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
